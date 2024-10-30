@@ -1,0 +1,712 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JaJaDi Training and Courses v0.5.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-12-13 14:45:33+0000\n"
+"Last-Translator: Janjaapvandijk <janjaapvandijk@gmail.com>\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/training-and-courses/language/nl_NL/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: jajadi-custombox.php:23
+#@ jajadi-training
+msgid "Select date"
+msgstr "Selecteer datum"
+
+#: jajadi-custombox.php:31
+#@ jajadi-training
+msgid "Select courses"
+msgstr "Selecteer opleidingsonderdelen"
+
+#: jajadi-custombox.php:39
+#@ jajadi-training
+msgid "Summary"
+msgstr "Overzicht"
+
+#. Translators: Select Courses
+#: jajadi-custombox.php:99
+#@ jajadi-training
+msgid "By category:"
+msgstr "Bij categorie:"
+
+#. Translators: Select Courses
+#: jajadi-custombox.php:122
+#@ jajadi-training
+msgid "By courses:"
+msgstr "Bij Opleidingsonderdeel:"
+
+#: jajadi-training-widget.php:43
+#@ jajadi-training
+msgid "January"
+msgstr "Januari"
+
+#: jajadi-training-widget.php:46
+#@ jajadi-training
+msgid "February"
+msgstr "Februari"
+
+#: jajadi-training-widget.php:49
+#@ jajadi-training
+msgid "March"
+msgstr "Maart"
+
+#: jajadi-training-widget.php:52
+#@ jajadi-training
+msgid "April"
+msgstr "April"
+
+#: jajadi-training-widget.php:55
+#@ jajadi-training
+msgid "May"
+msgstr "Mei"
+
+#: jajadi-training-widget.php:58
+#@ jajadi-training
+msgid "June"
+msgstr "Juni"
+
+#: jajadi-training-widget.php:61
+#@ jajadi-training
+msgid "July"
+msgstr "Juli"
+
+#: jajadi-training-widget.php:64
+#@ jajadi-training
+msgid "August"
+msgstr "Augustus"
+
+#: jajadi-training-widget.php:67
+#@ jajadi-training
+msgid "September"
+msgstr "September"
+
+#: jajadi-training-widget.php:70
+#@ jajadi-training
+msgid "October"
+msgstr "Oktober"
+
+#: jajadi-training-widget.php:73
+#@ jajadi-training
+msgid "November"
+msgstr "November"
+
+#: jajadi-training-widget.php:76
+#@ jajadi-training
+msgid "December"
+msgstr "December"
+
+#: jajadi-training-about.php:2
+#@ jajadi-training
+msgid "With this plugin you can add a Training and associated Courses to your WordPress site."
+msgstr "Met deze plugin kan je Opleidingen en Opleidingsmodules aan je WordPress site toevoegen."
+
+#: jajadi-training-about.php:3
+#@ jajadi-training
+msgid "The Author"
+msgstr "De autheur"
+
+#: jajadi-training-about.php:4
+#@ jajadi-training
+msgid "I'm Janjaap van Dijk."
+msgstr "Ik ben Janjaap van Dijk"
+
+#. translators: %1$s: URL of Techblog, %2$s: URL of Photoblog
+#: jajadi-training-about.php:6
+#, php-format
+#@ jajadi-training
+msgid "| <a href=\"%1$s\" >Techblog</a> | <a href=\"%2$s\" >Photoblog</a> |"
+msgstr "| <a href=\"%1$s\" >Techblog</a> | <a href=\"%2$s\" >Photoblog</a> |"
+
+#: jajadi-training-about.php:7
+#@ jajadi-training
+msgid "Donate"
+msgstr "Doneer"
+
+#: jajadi-training-about.php:8
+#@ jajadi-training
+msgid "You like it?"
+msgstr "Vind je het wat?"
+
+#: jajadi-training-calender.php:2
+#@ jajadi-training
+msgid "Calender"
+msgstr "Kalender"
+
+#: jajadi-training-e-learning.php:2
+#@ jajadi-training
+msgid "E-learning"
+msgstr "E-learning"
+
+#: jajadi-training-forms.php:2
+#: jajadi-training-settings.php:26
+#@ jajadi-training
+msgid "Forms"
+msgstr "Formulieren"
+
+#: jajadi-training-functions.php:23
+#@ jajadi-training
+msgctxt "post type general name"
+msgid "Training"
+msgstr "Opleidingen"
+
+#: jajadi-training-functions.php:24
+#@ jajadi-training
+msgctxt "post type singular name"
+msgid "Training"
+msgstr "Opleiding"
+
+#: jajadi-training-functions.php:25
+#@ jajadi-training
+msgctxt "Training"
+msgid "Add New"
+msgstr "Nieuw"
+
+#: jajadi-training-functions.php:26
+#@ jajadi-training
+msgid "Add New Training"
+msgstr "Nieuwe Opleiding"
+
+#: jajadi-training-functions.php:27
+#: jajadi-training-functions.php:215
+#@ jajadi-training
+msgid "Edit Training"
+msgstr "Opleiding bewerken"
+
+#: jajadi-training-functions.php:28
+#@ jajadi-training
+msgid "New Training"
+msgstr "Nieuwe Opleiding"
+
+#: jajadi-training-functions.php:29
+#@ jajadi-training
+msgid "View Training"
+msgstr "Bekijk Opleiding"
+
+#: jajadi-training-functions.php:30
+#@ jajadi-training
+msgid "Search Training"
+msgstr "Opleiding zoeken"
+
+#: jajadi-training-functions.php:31
+#: jajadi-training-functions.php:106
+#@ jajadi-training
+msgid "Nothing found"
+msgstr "Niets gevonden"
+
+#: jajadi-training-functions.php:32
+#: jajadi-training-functions.php:107
+#@ jajadi-training
+msgid "Nothing found in Trash"
+msgstr "Niets gevonden in prullenbak"
+
+#: jajadi-training-functions.php:75
+#, php-format
+#@ jajadi-training
+msgid "Training updated. <a href=\"%s\">View Training</a>"
+msgstr "Opleiding bijgewerkt. <a href=\"%s\">Bekijk Opleiding</a>"
+
+#: jajadi-training-functions.php:76
+#: jajadi-training-functions.php:136
+#@ jajadi-training
+msgid "Custom field updated."
+msgstr "Vrij veld bijgewerkt."
+
+#: jajadi-training-functions.php:77
+#: jajadi-training-functions.php:137
+#@ jajadi-training
+msgid "Custom field deleted."
+msgstr "Vrij veld verwijdert."
+
+#: jajadi-training-functions.php:78
+#@ jajadi-training
+msgid "Training updated."
+msgstr "Opleinding bijgewerkt."
+
+#. translators: %s: date and time of the revision
+#: jajadi-training-functions.php:80
+#, php-format
+#@ jajadi-training
+msgid "Training restored to revision from %s"
+msgstr "Opleiding hersteld naar revisie van %s"
+
+#: jajadi-training-functions.php:81
+#, php-format
+#@ jajadi-training
+msgid "Training published. <a href=\"%s\">View Training</a>"
+msgstr "Opleiding gepubliceerd. <a href=\"%s\">Bekijk Opleiding</a>"
+
+#: jajadi-training-functions.php:82
+#@ jajadi-training
+msgid "Training saved."
+msgstr "Opleiding opgeslagen."
+
+#: jajadi-training-functions.php:83
+#, php-format
+#@ jajadi-training
+msgid "Training submitted. <a target=\"_blank\" href=\"%s\">Preview Training</a>"
+msgstr "Opleiding toegevoegd. <a target=\"_blank\" href=\"%s\">Bekijk opleiding</a>"
+
+#: jajadi-training-functions.php:84
+#, php-format
+#@ jajadi-training
+msgid "Training scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Training</a>"
+msgstr "Opleiding gepland voor: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Bekijk Opleiding</a>"
+
+#. translators: Publish box date format, see http://php.net/date
+#: jajadi-training-functions.php:86
+#: jajadi-training-functions.php:146
+#@ jajadi-training
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: jajadi-training-functions.php:87
+#, php-format
+#@ jajadi-training
+msgid "Training draft updated. <a target=\"_blank\" href=\"%s\">Preview Training</a>"
+msgstr "Opleiding ontwerp bijgewerkt. <a target=\"_blank\" href=\"%s\">Bekijk Opleiding</a>"
+
+#: jajadi-training-functions.php:98
+#@ jajadi-training
+msgctxt "post type general name"
+msgid "Courses"
+msgstr "Opleidingsonderdelen"
+
+#: jajadi-training-functions.php:99
+#@ jajadi-training
+msgctxt "post type singular name"
+msgid "Course"
+msgstr "Opleidingsonderdeel"
+
+#: jajadi-training-functions.php:100
+#@ jajadi-training
+msgctxt "Course"
+msgid "Add New"
+msgstr "Nieuw"
+
+#: jajadi-training-functions.php:101
+#@ jajadi-training
+msgid "Add New Course"
+msgstr "Nieuw Opleidingsonderdeel"
+
+#: jajadi-training-functions.php:102
+#: jajadi-training-functions.php:229
+#@ jajadi-training
+msgid "Edit Course"
+msgstr "Bewerk Opleidingsonderdeel"
+
+#: jajadi-training-functions.php:103
+#@ jajadi-training
+msgid "New Course"
+msgstr "Nieuw Opleidingsonderdeel"
+
+#: jajadi-training-functions.php:104
+#@ jajadi-training
+msgid "View Course"
+msgstr "Bekijk Opleidingsonderdeel"
+
+#: jajadi-training-functions.php:105
+#@ jajadi-training
+msgid "Search Courses"
+msgstr "Zoek Opleidingsonderdeel"
+
+#: jajadi-training-functions.php:135
+#, php-format
+#@ jajadi-training
+msgid "Course updated. <a href=\"%s\">View Course</a>"
+msgstr "Opleidingsonderdeel bijgewerkt. <a href=\"%s\">Bekijk Opleidingsonderdeel</a>"
+
+#: jajadi-training-functions.php:138
+#@ jajadi-training
+msgid "Course updated."
+msgstr "Opleidingsonderdeel bijgewerkt."
+
+#. translators: %s: date and time of the revision
+#: jajadi-training-functions.php:140
+#, php-format
+#@ jajadi-training
+msgid "Course restored to revision from %s"
+msgstr "Opleidingsonderdeel hersteld naar revisie van %s"
+
+#: jajadi-training-functions.php:141
+#, php-format
+#@ jajadi-training
+msgid "Course published. <a href=\"%s\">View Course</a>"
+msgstr "Opleidingsonderdeel gepubliseerd. <a href=\"%s\">Bekijk Opleidingsonderdeel</a>"
+
+#: jajadi-training-functions.php:142
+#@ jajadi-training
+msgid "Course saved."
+msgstr "Opleidingsonderdeel opgeslagen."
+
+#: jajadi-training-functions.php:143
+#, php-format
+#@ jajadi-training
+msgid "Course submitted. <a target=\"_blank\" href=\"%s\">Preview Course</a>"
+msgstr "Opleidingsonderdeel toegevoegd. <a target=\"_blank\" href=\"%s\">Bekijk Opleidingsonderdeel</a>"
+
+#: jajadi-training-functions.php:144
+#, php-format
+#@ jajadi-training
+msgid "Course scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Course</a>"
+msgstr "Opleidingsonderdeel gepland voor: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Bekijk Opleidingsonderdeel</a>"
+
+#: jajadi-training-functions.php:147
+#, php-format
+#@ jajadi-training
+msgid "Course draft updated. <a target=\"_blank\" href=\"%s\">Preview Course</a>"
+msgstr "Opleidingsonderdeel ontwerp bijgewerkt. <a target=\"_blank\" href=\"%s\">Bekijk Opleidingsonderdeel</a>"
+
+#: jajadi-training-functions.php:158
+#: jajadi-training-functions.php:159
+#@ jajadi-training
+msgctxt "taxonomy single name"
+msgid "Course Category"
+msgstr "Opleidingsonderdeel Categorie"
+
+#: jajadi-training-functions.php:160
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Search Course Categories"
+msgstr "Zoek Opleidingsonderdeel Categorieën"
+
+#: jajadi-training-functions.php:161
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Popular Course Categories"
+msgstr "Populaire Opleidingsonderdeel Categorieën"
+
+#: jajadi-training-functions.php:162
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "All Course Categories"
+msgstr "Alle Opleidingsonderdeel Categorieën"
+
+#: jajadi-training-functions.php:163
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Edit Course Category"
+msgstr "Bewerk Opleidingsonderdeel Categorie"
+
+#: jajadi-training-functions.php:164
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Update Course Category"
+msgstr "Actualiseer Opleidingsonderdeel Categorie"
+
+#: jajadi-training-functions.php:165
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Add New Course Category"
+msgstr "Voeg Opleidingsonderdeel Categorie toe"
+
+#: jajadi-training-functions.php:166
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "New Course Category Name"
+msgstr "Nieuwe Opleidingsonderdeel Categorie Naam"
+
+#: jajadi-training-functions.php:167
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Add or Remove Course Categories"
+msgstr "Toevoegen of Verwijderen van Opleidingsonderdeel Categorieën"
+
+#: jajadi-training-functions.php:168
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Choose from the most used course categories"
+msgstr "Kies van de meest gebruikte Opleidingsonderdeel Categorieën"
+
+#: jajadi-training-functions.php:169
+#@ jajadi-training
+msgctxt "taxonomy menu name"
+msgid "Course Categories"
+msgstr "Opleidingsonderdeel Categorieën"
+
+#: jajadi-training-functions.php:182
+#: jajadi-training-functions.php:183
+#@ jajadi-training
+msgctxt "taxonomy single name"
+msgid "Course Tag"
+msgstr "Opleidingsonderdeel Label"
+
+#: jajadi-training-functions.php:184
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Search Course Tags"
+msgstr "Zoek Opleidingsonderdeel Labels"
+
+#: jajadi-training-functions.php:185
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Popular Course Tags"
+msgstr "Populaire Opleidingsonderdeel Labels"
+
+#: jajadi-training-functions.php:186
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "All Course Tags"
+msgstr "Alle Opleidingsonderdeel Labels"
+
+#: jajadi-training-functions.php:187
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Edit Course Tag"
+msgstr "Bewerk Opleidingsonderdeel Label"
+
+#: jajadi-training-functions.php:188
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Update Course Tag"
+msgstr "Actualiseer Opleidingsonderdeel Label"
+
+#: jajadi-training-functions.php:189
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Add New Course Tag"
+msgstr "Voeg Opleidingsonderdeel Label toe"
+
+#: jajadi-training-functions.php:190
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "New Course Tag Name"
+msgstr "Nieuwe Opleidingsonderdeel Label Naam"
+
+#: jajadi-training-functions.php:191
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Add or Remove Course Tags"
+msgstr "Toevoegen of Verwijderen van Opleidingsonderdeel Labels"
+
+#: jajadi-training-functions.php:192
+#@ jajadi-training
+msgctxt "taxonomy label"
+msgid "Choose from the most used course tags"
+msgstr "Kies van de meest gebruikte Opleidingsonderdeel Labels"
+
+#: jajadi-training-functions.php:193
+#@ jajadi-training
+msgctxt "taxonomy menu name"
+msgid "Course Tags"
+msgstr "Opleidingsonderdeel Labels"
+
+#: jajadi-training-functions.php:274
+#: jajadi-training-functions.php:341
+#@ jajadi-training
+msgid "Title"
+msgstr "Titel"
+
+#: jajadi-training-functions.php:275
+#@ jajadi-training
+msgid "Trainingdate"
+msgstr "Opleidingsdatum"
+
+#: jajadi-training-functions.php:276
+#: jajadi-training-functions.php:344
+#@ jajadi-training
+msgid "Date Author"
+msgstr "Datum auteur"
+
+#: jajadi-training-functions.php:290
+#@ jajadi-training
+msgid "Unknown"
+msgstr "Onbekend"
+
+#: jajadi-training-functions.php:342
+#@ jajadi-training
+msgid "Course Categories"
+msgstr "Opleidingsonderdeel Categorieën"
+
+#: jajadi-training-functions.php:343
+#@ jajadi-training
+msgid "Course Tags"
+msgstr "Opleidingsonderdeel labels"
+
+#: jajadi-training-functions.php:354
+#@ jajadi-training
+msgid "No Course Category"
+msgstr "Geen Opleidingsonderdeel Categorieën"
+
+#: jajadi-training-functions.php:362
+#@ jajadi-training
+msgid "No Course Tags"
+msgstr "Geen Opleidingsonderdeel labels"
+
+#: jajadi-training-functions.php:386
+#@ jajadi-training
+msgid "course"
+msgstr "Opleidingsonderdeel"
+
+#: jajadi-training-functions.php:397
+#@ jajadi-training
+msgid "Settings"
+msgstr "Instellingen"
+
+#: jajadi-training-settings.php:24
+#@ jajadi-training
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: jajadi-training-settings.php:25
+#@ jajadi-training
+msgid "Widget"
+msgstr "Widget"
+
+#: jajadi-training-settings.php:27
+#@ jajadi-training
+msgid "Calendar"
+msgstr "Kalender"
+
+#: jajadi-training-settings.php:28
+#@ jajadi-training
+msgid "e-Learning"
+msgstr "e-Learning"
+
+#: jajadi-training-settings.php:39
+#@ jajadi-training
+msgid "JaJaDi Training & Courses Settings"
+msgstr "JaJaDi Opleidingen Instellingen"
+
+#: jajadi-training-settings.php:62
+#@ jajadi-training
+msgid "Use Courses"
+msgstr "Gebruik Opleidingsmodules"
+
+#: jajadi-training-settings.php:67
+#@ jajadi-training
+msgid "Use Forms"
+msgstr "Gebruik Formulieren"
+
+#: jajadi-training-settings.php:72
+#@ jajadi-training
+msgid "Use Calendar"
+msgstr "Gebruik Kalender"
+
+#: jajadi-training-settings.php:77
+#@ jajadi-training
+msgid "Use e-Learning"
+msgstr "Gebruik e-learning"
+
+#. translators: plugin header field 'Name'
+#: jajadi-training.php:0
+#@ jajadi-training
+msgid "JaJaDi Training and Courses"
+msgstr "JaJaDi Training and Courses"
+
+#. translators: plugin header field 'PluginURI'
+#: jajadi-training.php:0
+#@ jajadi-training
+msgid "http://tech.janjaapvandijk.nl/jajadi-training-plugin"
+msgstr "http://tech.janjaapvandijk.nl/jajadi-training-plugin"
+
+#. translators: plugin header field 'Description'
+#: jajadi-training.php:0
+#@ jajadi-training
+msgid "With this plugin you can offer training and courses."
+msgstr "Met deze plugin kan je Opleidingen aanbieden."
+
+#. translators: plugin header field 'Author'
+#: jajadi-training.php:0
+#@ jajadi-training
+msgid "Janjaap van Dijk"
+msgstr "Janjaap van Dijk"
+
+#. translators: plugin header field 'AuthorURI'
+#: jajadi-training.php:0
+#@ jajadi-training
+msgid "http://tech.janjaapvandijk.nl"
+msgstr "http://tech.janjaapvandijk.nl"
+
+#: jajadi-training-settings.php:29
+#@ jajadi-training
+msgid "About"
+msgstr "Over"
+
+#: jajadi-training-widget.php:15
+#@ jajadi-training
+msgid "Title:"
+msgstr "Titel:"
+
+#: jajadi-training-widget.php:7
+#@ jajadi-training
+msgid "Displays all trainings of the training plugin."
+msgstr "Geeft alle opleidingen van de opleidingen plugin."
+
+#. translators: Default title of the widget
+#: jajadi-training-widget.php:30
+#@ jajadi-training
+msgid "Trainings"
+msgstr "Opleidingen"
+
+#. translators: plugin header field 'Version'
+#: jajadi-training.php:0
+#@ jajadi-training
+msgid "0.5.7"
+msgstr "0.5.7"
+
+#: jajadi-training-functions.php:216
+#@ jajadi-training
+msgid "This screen you can edit your training. You can also attach courses and set a date of the training"
+msgstr "Op dit scherm kunt u uw opleiding aanpassen. U kunt ook cursussen toevoegen en een datum van de opleiding instellen."
+
+#: jajadi-training-functions.php:222
+#@ jajadi-training
+msgid "Training Overview"
+msgstr "Opleidingen overzicht"
+
+#: jajadi-training-functions.php:223
+#@ jajadi-training
+msgid "This screen provides access to all of your trainings."
+msgstr "Dit scherm biedt toegang tot al uw opleidingen."
+
+#: jajadi-training-functions.php:230
+#@ jajadi-training
+msgid "This screen you can edit your course. You can also write a summary, this summary would show by the course on the frontpage."
+msgstr "Dit scherm kunt u uw opleidingenmodules bewerken. U kunt ook een samenvatting schrijven, deze samenvatting is te zien op de voorpagina bij de betreffende opleidingenmodule."
+
+#: jajadi-training-functions.php:234
+#: jajadi-training-functions.php:251
+#@ jajadi-training
+msgid "Course categories"
+msgstr "Opleidingenmodule categorieën"
+
+#: jajadi-training-functions.php:235
+#: jajadi-training-functions.php:252
+#@ jajadi-training
+msgid "You can use categories to define sections of your site and group related courses."
+msgstr "U kunt categorieën gebruiken om secties van de site en verwante opleidingenmodules te definiëren."
+
+#: jajadi-training-functions.php:239
+#: jajadi-training-functions.php:256
+#@ jajadi-training
+msgid "Course tags"
+msgstr "Opleidingenmodule tags"
+
+#: jajadi-training-functions.php:240
+#: jajadi-training-functions.php:257
+#@ jajadi-training
+msgid "You can assign keywords to your courses using tags. Unlike categories, tags have no hierarchy, meaning there’s no relationship from one tag to another."
+msgstr "U kunt trefwoorden toewijzen aan uw cursussen met behulp van tags. In tegenstelling tot de categorieën hebben tags geen hiërarchie, dat betekent dat er geen relatie is van de ene naar de andere tag."
+
+#: jajadi-training-functions.php:246
+#@ jajadi-training
+msgid "Course Overview"
+msgstr "Opleidingenmodules Overzicht"
+
+#: jajadi-training-functions.php:247
+#@ jajadi-training
+msgid "This screen provides access to all of your courses."
+msgstr "Dit scherm biedt toegang tot al uw opleidingenmodules."
+

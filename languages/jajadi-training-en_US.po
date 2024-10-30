@@ -1,0 +1,711 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JaJaDi Training and Courses v0.5.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-08 10:15+0100\n"
+"Last-Translator: Janjaap van Dijk <info@janjaapvandijk.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.8\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ jajadi-training
+#: jajadi-custombox.php:23
+msgid "Select date"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-custombox.php:31
+msgid "Select courses"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-custombox.php:39
+msgid "Summary"
+msgstr ""
+
+# @ jajadi-training
+#. Translators: Select Courses
+#: jajadi-custombox.php:99
+msgid "By category:"
+msgstr ""
+
+# @ jajadi-training
+#. Translators: Select Courses
+#: jajadi-custombox.php:122
+msgid "By courses:"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-about.php:2
+msgid ""
+"With this plugin you can add a Training and associated Courses to your "
+"WordPress site."
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-about.php:3
+msgid "The Author"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-about.php:4
+msgid "I'm Janjaap van Dijk."
+msgstr ""
+
+# @ jajadi-training
+#. translators: %1$s: URL of Techblog, %2$s: URL of Photoblog
+#: jajadi-training-about.php:6
+#, php-format
+msgid "| <a href=\"%1$s\" >Techblog</a> | <a href=\"%2$s\" >Photoblog</a> |"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-about.php:7
+msgid "Donate"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-about.php:8
+msgid "You like it?"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-calender.php:2
+msgid "Calender"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-e-learning.php:2
+msgid "E-learning"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-forms.php:2 jajadi-training-settings.php:26
+msgid "Forms"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:23
+msgctxt "post type general name"
+msgid "Training"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:24
+msgctxt "post type singular name"
+msgid "Training"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:25
+msgctxt "Training"
+msgid "Add New"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:26
+msgid "Add New Training"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:27 jajadi-training-functions.php:215
+msgid "Edit Training"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:28
+msgid "New Training"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:29
+msgid "View Training"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:30
+msgid "Search Training"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:31 jajadi-training-functions.php:106
+msgid "Nothing found"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:32 jajadi-training-functions.php:107
+msgid "Nothing found in Trash"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:75
+#, php-format
+msgid "Training updated. <a href=\"%s\">View Training</a>"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:76 jajadi-training-functions.php:136
+msgid "Custom field updated."
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:77 jajadi-training-functions.php:137
+msgid "Custom field deleted."
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:78
+msgid "Training updated."
+msgstr ""
+
+# @ jajadi-training
+#. translators: %s: date and time of the revision
+#: jajadi-training-functions.php:80
+#, php-format
+msgid "Training restored to revision from %s"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:81
+#, php-format
+msgid "Training published. <a href=\"%s\">View Training</a>"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:82
+msgid "Training saved."
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:83
+#, php-format
+msgid ""
+"Training submitted. <a target=\"_blank\" href=\"%s\">Preview Training</a>"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:84
+#, php-format
+msgid ""
+"Training scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Training</a>"
+msgstr ""
+
+# @ jajadi-training
+#. translators: Publish box date format, see http://php.net/date
+#: jajadi-training-functions.php:86 jajadi-training-functions.php:146
+msgid "M j, Y @ G:i"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:87
+#, php-format
+msgid ""
+"Training draft updated. <a target=\"_blank\" href=\"%s\">Preview Training</a>"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:98
+msgctxt "post type general name"
+msgid "Courses"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:99
+msgctxt "post type singular name"
+msgid "Course"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:100
+msgctxt "Course"
+msgid "Add New"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:101
+msgid "Add New Course"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:102 jajadi-training-functions.php:229
+msgid "Edit Course"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:103
+msgid "New Course"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:104
+msgid "View Course"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:105
+msgid "Search Courses"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:135
+#, php-format
+msgid "Course updated. <a href=\"%s\">View Course</a>"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:138
+msgid "Course updated."
+msgstr ""
+
+# @ jajadi-training
+#. translators: %s: date and time of the revision
+#: jajadi-training-functions.php:140
+#, php-format
+msgid "Course restored to revision from %s"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:141
+#, php-format
+msgid "Course published. <a href=\"%s\">View Course</a>"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:142
+msgid "Course saved."
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:143
+#, php-format
+msgid "Course submitted. <a target=\"_blank\" href=\"%s\">Preview Course</a>"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:144
+#, php-format
+msgid ""
+"Course scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Course</a>"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:147
+#, php-format
+msgid ""
+"Course draft updated. <a target=\"_blank\" href=\"%s\">Preview Course</a>"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:158 jajadi-training-functions.php:159
+msgctxt "taxonomy single name"
+msgid "Course Category"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:160
+msgctxt "taxonomy label"
+msgid "Search Course Categories"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:161
+msgctxt "taxonomy label"
+msgid "Popular Course Categories"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:162
+msgctxt "taxonomy label"
+msgid "All Course Categories"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:163
+msgctxt "taxonomy label"
+msgid "Edit Course Category"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:164
+msgctxt "taxonomy label"
+msgid "Update Course Category"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:165
+msgctxt "taxonomy label"
+msgid "Add New Course Category"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:166
+msgctxt "taxonomy label"
+msgid "New Course Category Name"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:167
+msgctxt "taxonomy label"
+msgid "Add or Remove Course Categories"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:168
+msgctxt "taxonomy label"
+msgid "Choose from the most used course categories"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:169
+msgctxt "taxonomy menu name"
+msgid "Course Categories"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:182 jajadi-training-functions.php:183
+msgctxt "taxonomy single name"
+msgid "Course Tag"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:184
+msgctxt "taxonomy label"
+msgid "Search Course Tags"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:185
+msgctxt "taxonomy label"
+msgid "Popular Course Tags"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:186
+msgctxt "taxonomy label"
+msgid "All Course Tags"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:187
+msgctxt "taxonomy label"
+msgid "Edit Course Tag"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:188
+msgctxt "taxonomy label"
+msgid "Update Course Tag"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:189
+msgctxt "taxonomy label"
+msgid "Add New Course Tag"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:190
+msgctxt "taxonomy label"
+msgid "New Course Tag Name"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:191
+msgctxt "taxonomy label"
+msgid "Add or Remove Course Tags"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:192
+msgctxt "taxonomy label"
+msgid "Choose from the most used course tags"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:193
+msgctxt "taxonomy menu name"
+msgid "Course Tags"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:216
+msgid ""
+"This screen you can edit your training. You can also attach courses and set "
+"a date of the training"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:222
+msgid "Training Overview"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:223
+msgid "This screen provides access to all of your trainings."
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:230
+msgid ""
+"This screen you can edit your course. You can also write a summary, this "
+"summary would show by the course on the frontpage."
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:234 jajadi-training-functions.php:251
+msgid "Course categories"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:235 jajadi-training-functions.php:252
+msgid ""
+"You can use categories to define sections of your site and group related "
+"courses."
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:239 jajadi-training-functions.php:256
+msgid "Course tags"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:240 jajadi-training-functions.php:257
+msgid ""
+"You can assign keywords to your courses using tags. Unlike categories, tags "
+"have no hierarchy, meaning there’s no relationship from one tag to another."
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:246
+msgid "Course Overview"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:247
+msgid "This screen provides access to all of your courses."
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:274 jajadi-training-functions.php:341
+msgid "Title"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:275
+msgid "Trainingdate"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:276 jajadi-training-functions.php:344
+msgid "Date Author"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:290
+msgid "Unknown"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:342
+msgid "Course Categories"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:343
+msgid "Course Tags"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:354
+msgid "No Course Category"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:362
+msgid "No Course Tags"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:386
+msgid "course"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-functions.php:397
+msgid "Settings"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-settings.php:24
+msgid "General Settings"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-settings.php:25
+msgid "Widget"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-settings.php:27
+msgid "Calendar"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-settings.php:28
+msgid "e-Learning"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-settings.php:29
+msgid "About"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-settings.php:39
+msgid "JaJaDi Training & Courses Settings"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-settings.php:62
+msgid "Use Courses"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-settings.php:67
+msgid "Use Forms"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-settings.php:72
+msgid "Use Calendar"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-settings.php:77
+msgid "Use e-Learning"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:7
+msgid "Displays all trainings of the training plugin."
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:15
+msgid "Title:"
+msgstr ""
+
+# @ jajadi-training
+#. translators: Default title of the widget
+#: jajadi-training-widget.php:30
+msgid "Trainings"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:43
+msgid "January"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:46
+msgid "February"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:49
+msgid "March"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:52
+msgid "April"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:55
+msgid "May"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:58
+msgid "June"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:61
+msgid "July"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:64
+msgid "August"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:67
+msgid "September"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:70
+msgid "October"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:73
+msgid "November"
+msgstr ""
+
+# @ jajadi-training
+#: jajadi-training-widget.php:76
+msgid "December"
+msgstr ""
+
+# @ jajadi-training
+#. translators: plugin header field 'Name'
+#: jajadi-training.php:0
+msgid "JaJaDi Training and Courses"
+msgstr ""
+
+# @ jajadi-training
+#. translators: plugin header field 'PluginURI'
+#: jajadi-training.php:0
+msgid "http://tech.janjaapvandijk.nl/jajadi-training-plugin"
+msgstr ""
+
+# @ jajadi-training
+#. translators: plugin header field 'Description'
+#: jajadi-training.php:0
+msgid "With this plugin you can offer training and courses."
+msgstr ""
+
+# @ jajadi-training
+#. translators: plugin header field 'Author'
+#: jajadi-training.php:0
+msgid "Janjaap van Dijk"
+msgstr ""
+
+# @ jajadi-training
+#. translators: plugin header field 'AuthorURI'
+#: jajadi-training.php:0
+msgid "http://tech.janjaapvandijk.nl"
+msgstr ""
+
+# @ jajadi-training
+#. translators: plugin header field 'Version'
+#: jajadi-training.php:0
+msgid "0.5.7"
+msgstr ""

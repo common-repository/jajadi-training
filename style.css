@@ -1,0 +1,16 @@
+.jajadi-selectdate span a:hover {
+	background: url(images/xit.gif) no-repeat -10px 0;
+}
+
+.jajadi-selectdate span a {
+	background: url(images/xit.gif) no-repeat;
+	margin: 6px 0 0 -9px;
+	cursor: pointer;
+	width: 10px;
+	height: 10px;
+	display: block;
+	float: left;
+	text-indent: -9999px;
+	overflow: hidden;
+	position: absolute;
+}
